@@ -1,0 +1,32 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.largeFileOptimizations": false,
+  "editor.minimap.autohide": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 120,
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120,
+  "prettier.semi": true,
+  "prettier.bracketSameLine": false,
+  "prettier.singleAttributePerLine": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.eol": "\n",
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "files.associations": {
+    ".env.*": "Settings",
+    ".env*": "Settings",
+    "*.css": "tailwindcss"
+  }
+}
