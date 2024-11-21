@@ -28,6 +28,5 @@
     ".env.*": "Settings",
     ".env*": "Settings",
     "*.css": "tailwindcss"
-  },
-  "material-icon-theme.activeIconPack": "react"
+  }
 }
